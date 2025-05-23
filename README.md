@@ -4,7 +4,7 @@ Appassionato sviluppatore di web apps!
 
 ---
 
-[Instagram](https://www.instagram.com/giu.rochevivo/) | [WhatsApp](https://wa.me/393445461546)
+[Instagram](https://www.instagram.com/giu.rochevivo/) | [WhatsApp](https://wa.me/393445461546) | [Telegram](https://t.me/393445461546)
 
 ---
 
