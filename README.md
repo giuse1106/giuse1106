@@ -5,6 +5,8 @@ Attualmente sto imparando React e Node.js e cerco opportunità per collaborare a
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giu.rochevivo/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393445461546)
+![Crates.io MSRV (version)](https://img.shields.io/crates/msrv/giusemd/1.0)
+
 
 <br>
 
