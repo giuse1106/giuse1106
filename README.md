@@ -1,6 +1,6 @@
-### Ciao! 👋 Sono Giuse
+### Ciao! 👋 Sono Giuse [![Profile views](https://komarev.com/ghpvc/?username=giuse1106&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giuse1106)
 
-Appassionato sviluppatore web...
+Appassionato sviluppatore di web apps!
 
 ---
 
@@ -16,4 +16,4 @@ Appassionato sviluppatore web...
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=giuse1106&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giuse1106)
+
