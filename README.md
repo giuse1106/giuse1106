@@ -1,25 +1,24 @@
-<table>
-  <tr>
-    <td width="50%">
-      ### Ciao! 👋 Sono Giuse
+### Ciao! 👋 Sono Giuse
 
-      Appassionato sviluppatore web con interesse per il frontend e il backend.
-      Attualmente sto imparando React e Node.js.
+Appassionato sviluppatore web con interesse per il frontend e il backend.
+Attualmente sto imparando React e Node.js e cerco opportunità per collaborare a progetti interessanti.
 
-      <br>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giu.rochevivo/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393445461546)
 
-      [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giu.rochevivo/)
-      [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393445461546)
-    </td>
-    <td width="50%" align="center">
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuse1106&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-      <br>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuse1106&layout=compact&theme=vision-dark)](https://github.com/anuraghazra/github-readme-stats)
-      <br>
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=giuse1106&theme=dark)](https://git.io/streak-stats)
-    </td>
-  </tr>
-</table>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuse1106&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuse1106&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=giuse1106&theme=dark)](https://git.io/streak-stats)
+
+<br>
+
+### Tecnologie che conosco:
+
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Python`
 
 <br>
 
