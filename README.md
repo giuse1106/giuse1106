@@ -5,7 +5,6 @@ Attualmente sto imparando React e Node.js e cerco opportunità per collaborare a
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giu.rochevivo/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/393445461546)
-![GitHub package.json dev/peer/optional dependency version](https://img.shields.io/github/package-json/dependency-version/giuse1106/giusemd/dev/package.json)
 
 
 
@@ -26,3 +25,4 @@ Attualmente sto imparando React e Node.js e cerco opportunità per collaborare a
 <br>
 
 [![Profile views](https://komarev.com/ghpvc/?username=giuse1106&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giuse1106)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/giuse1106/giusemd/total)
