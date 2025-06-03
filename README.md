@@ -25,4 +25,4 @@ Attualmente sto imparando React e Node.js e cerco opportunità per collaborare a
 <br>
 
 [![Profile views](https://komarev.com/ghpvc/?username=giuse1106&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/giuse1106)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/giuse1106/giusemd/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/giuse1106/total)
